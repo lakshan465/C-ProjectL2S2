@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\bin\Debug\radPractical.exe.config
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\bin\Debug\radPractical.exe
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\bin\Debug\radPractical.pdb
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.Form1.resources
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.Properties.Resources.resources
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.csproj.GenerateResource.cache
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.exe
+C:\Users\user\Desktop\RAD\Practical\Code\radPractical\radPractical\obj\Debug\radPractical.pdb
