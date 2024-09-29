@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\RADproject\radPractical\bin\Debug\radPractical.exe
+C:\Users\user\Documents\GitHub\RADproject\radPractical\bin\Debug\radPractical.exe.config
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\RADproject.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.Form1.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.MainForm.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.RegisterForm.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\RADproject.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\RADproject.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.exe
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.pdb
+C:\Users\user\Documents\GitHub\RADproject\radPractical\bin\Debug\radPractical.pdb
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.AddEmployee.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.Dashboard.resources
+C:\Users\user\Documents\GitHub\RADproject\radPractical\obj\Debug\radPractical.Salary.resources

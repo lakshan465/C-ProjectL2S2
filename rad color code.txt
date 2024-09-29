@@ -1,0 +1,4 @@
+rad color code
+
+purple - 75, 8, 138
+dark purple - 33, 11, 97
